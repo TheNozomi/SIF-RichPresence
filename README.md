@@ -8,9 +8,9 @@ This application acts as a man-in-the-middle proxy betweeen your PC and your pho
 
 Requirements
 ----
-* (http://nodejs.org/)[Node.js] version 8 or later installed on your PC
+* [Node.js](http://nodejs.org/) version 8 or later installed on your PC
 * Have your PC and your mobile device connected on the same network
-* A proxy on your device. While you can use the "proxy settings" of your device, on most devices SIF will ignore the proxy and connect directly to the game servers, so you'll need to use a "global proxy" app. On Android you can use (https://play.google.com/store/apps/details?id=org.proxydroid&hl=en)[ProxyDroid] (for root users only) or (https://play.google.com/store/apps/details?id=org.sandroproxy.drony&hl=en)[Drony] (root and non-root). Haven't tested on iOS, so I don't know if it works out-of-the-box or if you need some special app. If you get this working on iOS, let me know how and I'll add it to this page.
+* A proxy on your device. While you can use the "proxy settings" of your device, on most devices SIF will ignore the proxy and connect directly to the game servers, so you'll need to use a "global proxy" app. On Android you can use [ProxyDroid](https://play.google.com/store/apps/details?id=org.proxydroid&hl=en) (for root users only) or [Drony](https://play.google.com/store/apps/details?id=org.sandroproxy.drony&hl=en) (root and non-root). Haven't tested on iOS, so I don't know if it works out-of-the-box or if you need some special app. If you get this working on iOS, let me know how and I'll add it to this page.
 
 
 Setup
