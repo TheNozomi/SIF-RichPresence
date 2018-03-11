@@ -1,0 +1,19 @@
+{
+  "name": "SIF-RichPresence",
+  "version": "0.1.0",
+  "description": "Discord Rich Presence for Love Live! School idol festival",
+  "main": "server.js",
+  "repository": "https://github.com/TheNozomi/SIF-RichPresence",
+  "author": "TheNozomi",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url" : "https://github.com/TheNozomi/SIF-RichPresence/issues"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord-rich-presence": "^0.0.6",
+    "http-mitm-proxy": "^0.6.1"
+  }
+}
